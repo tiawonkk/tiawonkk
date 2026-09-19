@@ -1,44 +1,69 @@
-# Hi there, I'm Christian Immanuel Valerio 👋
+<!--
+  TEMPLATE GITHUB PROFILE README (INDIVIDU)
+  Copy isi file ini menjadi README.md pada repo khusus profile kamu
+  (repo dengan nama SAMA seperti username GitHub kamu, contoh: budi123/budi123)
+→
 
-Creative Designer & Full-Stack Web Developer based in Pontianak, Indonesia. Passionate about crafting modern web applications, exploring cybersecurity, and building intuitive digital experiences.
+<!-- ===================== BANNER (opsional, nilai plus) ===================== -->
+<!--
+  Tips banner gratis:
+  - Buat banner sederhana di Canva lalu upload ke repo, atau
+  - Gunakan generator seperti https://capsule-render.vercel.app/
+-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&section=header&reversal=false&text=Tianwonkk+Library&textBg=false&fontColor=FFFFFF&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&desc=Tech+Enthusiat&descSize=20&descAlign=50&descAlignY=65" />
+</p>
 
----
-
-### 🚀 About Me
-
-- 🔭 **Currently working on:** 
-  - **bizniz.io** – An all-in-one Point of Sale (POS) & inventory management system.
-  - **Culture Series** – A suite of web applications, including ERP systems and lifestyle modules, built with **Laravel, React, Tailwind CSS, Alpine.js, & Supabase**, deployed on **Vercel**.
-- 🌱 **Currently learning & honing:** Advanced Cybersecurity & CTF strategies (Cryptography, Digital Forensics, Web Exploitation) and computer science fundamentals.
-- 💬 **Ask me about:** Laravel, React, Tailwind CSS, Supabase, Docker, UI/UX Design, and CTF challenges.
-- ⚡ **Fun fact:** I love working on code at local cafes while enjoying a warm bowl of ramen or soto ayam!
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**Development & Database:**
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpine.js&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**DevOps & Deployment:**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<h1 align="center">Christian Immanuel Valerio</h1>
+<p align="center">Data Scicence & Machine Learning Enthusiast</p>
 
 ---
 
-### 🎯 Security & Interests
+### Details / About Me
 
-- **Capture The Flag (CTF):** Active player focusing on Cryptography, Web Exploitation, and Forensic analysis.
-- **Creative Design:** Blending functional UI/UX with modern aesthetics.
+- **Pekerjaan Saat ini**: Mahasiswa
+- **Sedang mendalami**: Python [ML], C, Java
+- **Target**: MLOps Engineer
+- **Fun fact**: Senang Belajar
 
 ---
 
-📫 **How to reach me:** Feel free to connect via GitHub issues, pull requests, or email!
+### Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/christian-immanuel-valerio-5a62a0348/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/christian_immanuell" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:christianimmanuel.012@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+### GitHub Stats (opsional)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=tianwonkk&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+
+<!--
+  Ganti "USERNAME_KAMU" dengan username GitHub kamu.
+  Referensi tool: https://github.com/anuraghazra/github-readme-stats
+-->
+

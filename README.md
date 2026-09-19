@@ -58,6 +58,11 @@
 
 ### GitHub Stats 
 
-<img src="https://streak-stats.demolab.com?user=tianwonkk&theme=tokyonight" alt="GitHub Streak" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tianwonkk&theme=tokyonight" alt="GitHub Stats" />
+<p align="left">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 

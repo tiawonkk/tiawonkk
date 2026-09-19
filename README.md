@@ -56,15 +56,8 @@
 
 ---
 
-### GitHub Stats (opsional)
+### GitHub Stats 
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tianwonkk&show_icons=true&theme=tokyonight&v=1" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tianwonkk&layout=compact&theme=tokyonight&v=1" alt="Top Langs" />
-</p>
-
-<!--
-  Ganti "USERNAME_KAMU" dengan username GitHub kamu.
-  Referensi tool: https://github.com/anuraghazra/github-readme-stats
--->
+<img src="https://streak-stats.demolab.com?user=tianwonkk&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tianwonkk&theme=tokyonight" alt="GitHub Stats" />
 

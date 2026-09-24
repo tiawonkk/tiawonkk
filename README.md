@@ -15,7 +15,7 @@
 </p>
 
 <h1 align="center">Christian Immanuel Valerio</h1>
-<p align="center">Data Scicence & Machine Learning Enthusiast</p>
+<p align="center">Data Science & Machine Learning Enthusiast</p>
 
 ---
 
